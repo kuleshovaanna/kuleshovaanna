@@ -1,6 +1,7 @@
 ![MasterHead](https://i.pinimg.com/564x/9d/6b/03/9d6b0354c1a43d968ddaaada42424d20.jpg)
 <h1 align="center">Hi 👋, I'm Ann</h1>
 <h3 align="center">IT Career Coach. Ready to help you find your dream job :)</h3>
+
 - 🔭 I’m currently working on [Elbrus Coding Bootcamp](https://elbrusboot.camp/)
 
 - 💬 Ask me about **CV writing and soft skills improving**
